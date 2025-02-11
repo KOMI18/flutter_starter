@@ -1,4 +1,4 @@
-# silia_mobile
+# flutter starter
 
 A new Flutter project.
 
