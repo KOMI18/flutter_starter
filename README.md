@@ -10,15 +10,18 @@ un splash screen, un gestionnaire de formulaires (formHelper),
 un gestionnaire d'API, une mise en cache automatique,
 la gestion des routes, l'injection des dépendances, etc.
 
-#  Les EtapeS pour lancer le projet en Locale :
-*         ouvrire un terminal 
-*         Dans le terminal coler cette commande : git clone --branch master git@github.com:KOMI18/flutter_starter.git
-*         naviguer vers le projet avec cette commande : cd flutter_starter
-*         Telecharger les dependance avec : flutter pub get
-*         et enfin lancer le projet : flutter run 
+#  Les Etapes pour lancer le projet en Locale :
+          ouvrire un terminal  
+          Dans le terminal coller cette commande :
+*         git clone --branch master git@github.com:KOMI18/flutter_starter.git
+          naviguer vers le projet avec cette commande :
+*         cd flutter_starter
+          Telecharger les dependances avec :
+*         flutter pub get
+          Et enfin lancer le projet :
+*         flutter run 
 
-# **Environement requis:**
-
+# **Version / Environement:**
     Version de gradle : 8.3
     Version GetX :4.6.6
     Version flutter : 3.24.5
