@@ -11,7 +11,18 @@ class HomeScreen extends GetView<HomeController> {
         title:  Text("Home Screen"),
       ),
       body:  Center(
-        child: Text("Welcome to Home Screen"),
+        child:
+        Text(
+          "Congratulation 🎉 ! , You have successfully run Flutter starter ✅",
+          textAlign: TextAlign.center,
+          softWrap: true,
+          overflow: TextOverflow.visible,
+          style: TextStyle(
+            fontSize: 18,
+            fontWeight: FontWeight.bold,
+          ),
+        )
+
       ),
     );
   }
