@@ -22,10 +22,10 @@ Et enfin lancer le projet :
 *         flutter run 
 
 # **Version / Environement:**
-Version de gradle : 8.3
-Version GetX :4.6.6 
-Version flutter : 3.24.5
-Version dart: 3.5.4
+    Version de gradle : 8.3
+    Version GetX :4.6.6 
+    Version flutter : 3.24.5
+    Version dart: 3.5.4
 
 si vous avez des question ou des preoccupation contacter moi sur mon Linkedin : [Parfait Kom ](https://www.linkedin.com/in/parfait-kom-a25925268/)
 ou par mail mail : **`make.tech26@gmail.com`** et je serais ravis de vous repondre 
