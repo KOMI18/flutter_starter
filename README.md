@@ -1,21 +1,21 @@
 # flutter starter
 
-A new Flutter project.
-
-## Getting Started
-
 Ce projet est un point de départ pour une application Flutter.
-flutter Starter permet d'optimiser le temp de configuration d'un projet flutter 
-Ce starter utiliser les clean architectue et GetX pour le gestion d'etat 
+Flutter Starter permet d'optimiser le temps de configuration d'un projet Flutter.
+Ce starter utilise l'architecture Clean et GetX pour la gestion d'état.
 
-il met a disposition la traduction (Internationalize) , une feature  exemple (home)
-pour comprendre le structure des feature. un splash Sreen ,un gestionnaire de formulare (formHelper)
-un gestionnaire des d'API , une mise en cache automatique , la gestion des routes ,l'injection des dependence .. 
+Il met à disposition l'internationalisation (traduction), 
+une feature exemple (home) pour comprendre la structure des features, 
+un splash screen, un gestionnaire de formulaires (formHelper),
+un gestionnaire d'API, une mise en cache automatique,
+la gestion des routes, l'injection des dépendances, etc.
 
+#  Les EtapeS pour lancer le projet en Locale :
+*         ouvrire un terminal 
+*         Dans le terminal coler cette commande : git clone --branch master git@github.com:KOMI18/flutter_starter.git
+*         naviguer vers le projet avec cette commande : cd flutter_starter
+*         Telecharger les dependance avec : flutter pub get
+*         et enfin lancer le projet : flutter run 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+si vous avez des question ou des preoccupation contacter moi sur mon Linkedin : [Parfait Kom ](https://www.linkedin.com/in/parfait-kom-a25925268/)
+ou par mail mail : **`make.tech26@gmail.com`** et je serais ravis de vous repondre 
