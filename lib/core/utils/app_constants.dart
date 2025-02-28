@@ -5,6 +5,6 @@ class AppConstants{
   static const String baseUrl = "https://www.myapi.com/";
   static const String notFoundScreen = "/404";
   static const String splashScreen = "/splash";
-
+  static const String firstOpen = "firstOpenKey";
   static const String tokenKey = "tokenKey";
 }

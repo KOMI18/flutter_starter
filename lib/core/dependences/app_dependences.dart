@@ -13,6 +13,9 @@ import '../services/networkServices/network_service.dart';
 import '../../features/home/dependences/home_dependencies.dart';
 import '../../features/home/navigation/private/home_pages.dart';
 
+import '../../features/error/dependences/error_dependencies.dart';
+import '../../features/error/navigation/private/error_pages.dart';
+
 class AppDependency {
   static Future<void> init() async {
 
@@ -21,6 +24,7 @@ class AppDependency {
 
     // initialize all pages
     final featuresPages = [
+      ErrorPages(),
       HomePages(),
       //Add features pages here
     ];
@@ -40,5 +44,6 @@ class AppDependency {
 
     //Chargement des dependances de features
       HomeDependencies.init();
+     ErrorDependencies.init();
  }
 }

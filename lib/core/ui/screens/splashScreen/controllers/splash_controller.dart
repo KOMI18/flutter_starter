@@ -14,6 +14,9 @@ class SplashController extends GetxController {
 
   Future<void> _navigateToNextPage() async {
     await Future.delayed(const Duration(seconds: 3));
-    _appNavigation.toNamedAndReplaceAll(AppRoutes.home);
+    print('debut de la redirection vers dashoard');
+    _appNavigation.toNamedAndReplaceAll(AppRoutes.dashboard);
+    print('fin de la redirection vers dashoard');
+
   }
 }
